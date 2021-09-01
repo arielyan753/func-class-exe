@@ -11,7 +11,7 @@ function checkingNums2(num1,num2){
 checkingNums2(7,8)
 
 //3//
-function checkingNums4(num1,num2) {
+function checkingNums3(num1,num2) {
     if (num1 % 2=== 0){
 return true;
     }
@@ -30,7 +30,7 @@ return true;
         return false;
     }
 }
-checkingNums3(7)
+checkingNums4(7)
 
 //5//
 function createObject(fname,lname,age) {
